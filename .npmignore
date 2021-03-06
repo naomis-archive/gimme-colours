@@ -1,0 +1,13 @@
+/node_modules/
+/src/
+*.tgz
+.github
+.eslintrc.json
+.huskyrc
+.prettierrc
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+SECURITY.md
+.gitattributes
+.gitignore
+tsconfig.json
