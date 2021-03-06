@@ -12,6 +12,8 @@ This page is currently deployed. [View the live website.](https://npmjs.com/pack
 
 To install the tool, run `npm i -g gimme-colours`. Then run `gimme-colours` to see a colour-coded list of strings.
 
+![Image depicting the output of the gimme-colours tool](./docs/example.png)
+
 ## Feedback and Bugs
 
 If you have feedback or a bug report, please feel free to open a GitHub issue!
