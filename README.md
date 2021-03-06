@@ -1,11 +1,16 @@
-# Project Name
+# Gimme Colours
 
-Project Description
+This is a very simple CLI tool which will render the 16 basic colours to your terminal. Helpful for testing your terminal personalisation settings, this tool uses the `chalk` library to generate the colours and display the text.
+
+The colours are in line with the `settings.json` file for Windows Terminal.
 
 ## Live Version
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.](https://npmjs.com/package/gimme-colours)
+
+## Usage
+
+To install the tool, run `npm i -g gimme-colours`. Then run `gimme-colours` to see a colour-coded list of strings.
 
 ## Feedback and Bugs
 
