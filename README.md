@@ -8,6 +8,10 @@ The colours are in line with the `settings.json` file for Windows Terminal.
 
 This page is currently deployed. [View the live website.](https://npmjs.com/package/gimme-colours)
 
+## Usage
+
+To install the tool, run `npm i -g gimme-colours`. Then run `gimme-colours` to see a colour-coded list of strings.
+
 ## Feedback and Bugs
 
 If you have feedback or a bug report, please feel free to open a GitHub issue!
