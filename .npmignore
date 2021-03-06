@@ -11,3 +11,4 @@ SECURITY.md
 .gitattributes
 .gitignore
 tsconfig.json
+/docs/example.png
