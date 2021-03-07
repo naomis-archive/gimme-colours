@@ -12,3 +12,4 @@ SECURITY.md
 .gitignore
 tsconfig.json
 /docs/example.png
+/prod/tests

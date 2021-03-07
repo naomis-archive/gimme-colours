@@ -22,7 +22,7 @@ const generateChalk = (color: ColourList) => {
   return chalk[color](`This is ${color} text.`);
 };
 
-const gimmecolours = () => {
+export const gimmecolours = (): void => {
   console.log(generateChalk("black"));
   console.log(generateChalk("red"));
   console.log(generateChalk("green"));
