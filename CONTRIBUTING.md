@@ -6,12 +6,14 @@ Please ensure all pull requests and contributions comply with the [Developer Cer
 
 First, fork this repository to your own account. Then use `git clone <url>` to bring your forked repository down to your local machine (remember to get the URL for *your* repository, not the original). Optionally, use `git remote add upstream <url>` to add the original repository as the upstream (this is helpful for keeping your fork up-to-date).
 
-Installing dependencies (`npm ci`)
-Building files (`npm run build`)
-Running linter (`npm run lint`)
-Validating tests (`npm run test`)
-Generating npm test package (`npm pack`)
-Installing test package (`npm i -g <tgz file`>)
+(`npm ci`) - this will install the necessary node packages.(`npm i -g <tgz file`>) - this will install the test package. (`npm pack`) - this will generate npn test package.
+
+After you have made your changes, run the following commands to verify that the lint, build, and tests pass.
+
+(`npm run lint`) - runs the linter on the codebase. (`npm run build`) - generates a production build for the application. (`npm run test`) - runs the Karma unit tests.
+ 
+ All three of these steps will need to pass for any PR to be accepted.
+
 
 ## Claiming an Issue
 
