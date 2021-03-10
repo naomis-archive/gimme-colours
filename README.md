@@ -10,7 +10,10 @@ This page is currently deployed. [View the live website.](https://npmjs.com/pack
 
 ## Usage
 
-To install the tool, run `npm i -g gimme-colours`. Then run `gimme-colours` to see a colour-coded list of strings.
+**To install the tool**
+- globally: run `npm i -g gimme-colours`. Then run `gimme-colours` to see a colour-coded list of strings.
+- locally: run `npm i gimme-colours`. Then run `npx gimmie-colours` to see a colour-coded list of strings.
+> **NOTE**: As this is a CLI tool, the global installation is preferred over the local installation. 
 
 ![Image depicting the output of the gimme-colours tool](https://raw.githubusercontent.com/nhcarrigan/gimme-colours/main/docs/example.png)
 
