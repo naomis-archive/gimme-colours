@@ -4,6 +4,12 @@ This is a very simple CLI tool which will render the 16 basic colours to your te
 
 The colours are in line with the `settings.json` file for Windows Terminal.
 
+![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/gimme-colours)
+![](https://img.shields.io/codeclimate/issues/nhcarrigan/gimme-colours)
+![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/gimme-colours)
+![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/gimme-colours)
+![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/gimme-colours)
+
 ## Live Version
 
 This page is currently deployed. [View the live website.](https://npmjs.com/package/gimme-colours)
