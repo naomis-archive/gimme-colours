@@ -1,6 +1,6 @@
 {
   "name": "gimme-colours",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A quick CLI tool for testing basic colour output in your terminal.",
   "main": "./prod/index.js",
   "scripts": {
