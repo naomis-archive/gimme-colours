@@ -15,23 +15,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhcarrigan/gimme-colours.git"
+    "url": "git+https://github.com/nhcarrigan-archive/gimme-colours.git"
   },
   "keywords": [
     "npm",
     "cli",
     "typescript"
   ],
-  "author": "Nicholas Carrigan",
+  "author": "Naomi Carrigan",
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nhcarrigan/gimme-colours/issues"
+    "url": "https://github.com/nhcarrigan-archive/gimme-colours/issues"
   },
   "engines": {
     "node": "^15.10.0",
     "npm": "^7.6.0"
   },
-  "homepage": "https://github.com/nhcarrigan/gimme-colours#readme",
+  "homepage": "https://github.com/nhcarrigan-archive/gimme-colours#readme",
   "devDependencies": {
     "@types/chai": "4.2.18",
     "@types/mocha": "8.2.2",
